@@ -6,128 +6,92 @@
   />
 </p>
 
-<div align="center">
+<p align="center">
+  <strong>Software Developer</strong><br>
+  <sub>Laravel · PostgreSQL · Business Logic · Software Engineering</sub><br>
+  <sub>Exploring TypeScript · React · Next.js</sub>
+</p>
 
-# ELIAS GUTIÉRREZ
+<!-- =========================================================
+     01 // STACK
+========================================================= -->
 
-**Software Developer**  
-**Laravel · PostgreSQL · Business Logic · Software Engineering**
+<h2 align="center">01 // STACK</h2>
 
-Building web software and internal systems, while expanding into  
-**TypeScript · React · Next.js**.
+<p align="center">
+  <strong>CORE</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>EXPLORING</strong>
+</p>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>01 // STACK</h2>
-<sub>TOOLS I USE AND TECHNOLOGIES I’M GROWING INTO</sub>
-
-<br><br>
-
-**CORE**
-
-<br><br>
-
-<img
-  src="https://skillicons.dev/icons?i=php,laravel,postgres,git"
-  alt="PHP, Laravel, PostgreSQL and Git"
-  height="52"
-/>
-
-<br><br>
-
-<sub>PHP · Laravel · PostgreSQL · Git</sub>
-
-<br><br><br>
-
-**CURRENTLY EXPLORING**
-
-<br><br>
-
-<img
-  src="https://skillicons.dev/icons?i=ts,react,nextjs"
-  alt="TypeScript, React and Next.js"
-  height="52"
-/>
-
-<br><br>
-
-<sub>TypeScript · React · Next.js</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>02 // CURRENT FOCUS</h2>
-<sub>WHAT I’M BUILDING, LEARNING AND RESEARCHING</sub>
-
-<br><br>
-
-**BUILDING**  
-Web applications and internal systems
-
-<br>
-
-**LEARNING**  
-TypeScript · React · Next.js
-
-<br>
-
-**RESEARCH**  
-Machine Learning · pCR prediction
-
-</div>
-
-<br>
-
-<div align="center">
-
-> Most of my active development happens in private repositories.  
-> Public projects will appear here when they are ready to represent my work.
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>03 // CONNECT</h2>
-<sub>LET’S CONNECT</sub>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/eliasgutierrez0414/">
+<p align="center">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
+    src="https://skillicons.dev/icons?i=php,laravel,postgres,git"
+    alt="PHP, Laravel, PostgreSQL and Git"
+    height="48"
   />
-</a>
-
-<a href="mailto:pro.guti.elias@gmail.com">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
+    src="https://skillicons.dev/icons?i=ts,react,nextjs"
+    alt="TypeScript, React and Next.js"
+    height="48"
   />
-</a>
+</p>
 
-<a href="https://www.instagram.com/guti0414/">
-  <img
-    src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
+<!-- =========================================================
+     02 // CURRENT LAP
+========================================================= -->
 
-</div>
+<h2 align="center">02 // CURRENT LAP</h2>
 
-<br>
+<p align="center">
+  <code>BUILDING</code>
+  &nbsp; Web applications & internal systems
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>LEARNING</code>
+  &nbsp; TypeScript · React · Next.js
+</p>
+
+<p align="center">
+  <code>RESEARCH</code>
+  &nbsp; Machine Learning · pCR prediction
+</p>
+
+<p align="center">
+  <sub>
+    Most active development is private · Public projects will be added when portfolio-ready
+  </sub>
+</p>
+
+<!-- =========================================================
+     03 // CONNECT
+========================================================= -->
+
+<h2 align="center">03 // CONNECT</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eliasgutierrez0414/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:pro.guti.elias@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://www.instagram.com/guti0414/">
+    <img
+      src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+</p>
 
 <p align="center">
   <strong>EG14</strong>
-  <br>
+  &nbsp;//&nbsp;
   <sub>DRIVEN BY CURIOSITY · BUILT WITH LOGIC</sub>
 </p>
