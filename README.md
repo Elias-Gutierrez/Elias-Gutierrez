@@ -269,3 +269,44 @@
 </p>
 
 <br>
+
+<br>
+
+<!-- =========================================================
+     06 // PERFORMANCE DATA
+========================================================= -->
+
+<h2>06 // PERFORMANCE DATA</h2>
+
+<p>
+  <sub>TRACKING PROGRESS, ONE COMMIT AT A TIME.</sub>
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Elias-Gutierrez&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFCC00&text_color=FFFFFF&icon_color=FF1744&ring_color=1E88FF"
+    alt="Elias Gutiérrez GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Gutierrez&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFCC00&text_color=FFFFFF"
+    alt="Elias Gutiérrez Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=Elias-Gutierrez&hide_border=true&background=0D1117&ring=FF1744&fire=FFCC00&currStreakLabel=1E88FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="Elias Gutiérrez GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    PERFORMANCE // CONSISTENCY · PROGRESS · CONTINUOUS IMPROVEMENT
+  </sub>
+</p>
+
+<br>
