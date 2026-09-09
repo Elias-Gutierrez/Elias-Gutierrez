@@ -70,3 +70,67 @@
 </p>
 
 <br>
+
+<br>
+
+<!-- =========================================================
+     03 // CURRENT SEASON
+========================================================= -->
+
+<h2>03 // CURRENT SEASON</h2>
+
+<p>
+  <sub>FOCUS ON WHAT MOVES FORWARD.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚙️ CURRENT BUILD</h3>
+      <p>
+        Building and improving web-based software solutions,
+        with a focus on structured business logic,
+        relational databases and maintainable applications.
+      </p>
+      <p>
+        <code>Laravel</code>
+        <code>PostgreSQL</code>
+        <code>Software Engineering</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📡 RESEARCH</h3>
+      <p>
+        Working on a research project focused on predicting
+        pathological complete response (pCR) in breast cancer
+        using Machine Learning.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>Machine Learning</code>
+        <code>Research</code>
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>🏁 NEXT LEVEL</h3>
+      <p>
+        Expanding my frontend stack with TypeScript,
+        React and Next.js while strengthening software
+        architecture and development practices.
+      </p>
+      <p>
+        <code>TypeScript</code>
+        <code>React</code>
+        <code>Next.js</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>
+    CURRENT LAP // BUILD BETTER · LEARN DEEPER · KEEP MOVING
+  </sub>
+</p>
+
+<br>
