@@ -40,7 +40,6 @@
       </p>
       <sub>PHP · Laravel · PostgreSQL · Git</sub>
     </td>
-
     <td width="30%" valign="top">
       <h3>FRONTEND</h3>
       <p>
@@ -51,7 +50,6 @@
       </p>
       <sub>HTML · Bootstrap · Blade</sub>
     </td>
-
     <td width="36%" valign="top">
       <h3>CURRENTLY LEARNING</h3>
       <p>
