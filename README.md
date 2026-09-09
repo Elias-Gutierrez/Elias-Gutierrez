@@ -204,3 +204,68 @@
 </p>
 
 <br>
+
+<br>
+
+<!-- =========================================================
+     05 // ENGINEERING PROJECTS
+========================================================= -->
+
+<h2>05 // ENGINEERING PROJECTS</h2>
+
+<p>
+  <sub>FROM IDEAS TO WORKING SOLUTIONS.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Invoicing System</h3>
+      <p>
+        Web application developed to manage suppliers, products,
+        invoices and payments through a structured MVC architecture.
+      </p>
+      <p>
+        The application was configured and deployed from its
+        repository to Laravel Cloud, covering the publication
+        process from development to deployment.
+      </p>
+      <p>
+        <code>Laravel</code>
+        <code>PHP</code>
+        <code>PostgreSQL</code>
+        <code>MVC</code>
+        <code>Laravel Cloud</code>
+      </p>
+      <sub>STATUS // COMPLETED</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 pCR Prediction Research</h3>
+      <p>
+        Research project focused on developing predictive models
+        to estimate pathological complete response (pCR) in
+        breast cancer patients.
+      </p>
+      <p>
+        The project explores Machine Learning techniques as part
+        of an engineering research process oriented toward the
+        development of a software prototype.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>Machine Learning</code>
+        <code>Data Analysis</code>
+        <code>Research</code>
+      </p>
+      <sub>STATUS // IN DEVELOPMENT</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>
+    ENGINEERING // DESIGN · BUILD · TEST · IMPROVE
+  </sub>
+</p>
+
+<br>
