@@ -310,3 +310,49 @@
 </p>
 
 <br>
+
+<br>
+
+<!-- =========================================================
+     07 // EDUCATION
+========================================================= -->
+
+<h2>07 // EDUCATION</h2>
+
+<p>
+  <sub>ENGINEERING FOUNDATION.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="22%" valign="top">
+      <strong>2021 — 2026</strong><br>
+      <sub>ILO, PERU</sub>
+    </td>
+    <td width="78%" valign="top">
+      <h3>Universidad Nacional de Moquegua</h3>
+      <p>
+        <strong>Bachelor's Degree in Systems and Computer Engineering</strong>
+      </p>
+      <p>
+        Engineering education focused on software development,
+        information systems, databases and technology-driven
+        problem solving.
+      </p>
+      <p>
+        <code>Systems Engineering</code>
+        <code>Software Development</code>
+        <code>Databases</code>
+      </p>
+      <sub>ACADEMIC RESULT // 2ND PLACE · GRADUATING CLASS 2025-2</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>
+    FOUNDATION // ENGINEERING · SYSTEMS · CONTINUOUS LEARNING
+  </sub>
+</p>
+
+<br>
