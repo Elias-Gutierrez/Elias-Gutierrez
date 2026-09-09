@@ -6,133 +6,123 @@
   />
 </p>
 
-<p align="center">
-  <strong>Laravel · PostgreSQL · Business Logic · Software Engineering</strong>
-</p>
+<div align="center">
+
+# ELIAS GUTIÉRREZ
+
+**Software Developer**  
+**Laravel · PostgreSQL · Business Logic · Software Engineering**
+
+Building web software and internal systems, while expanding into  
+**TypeScript · React · Next.js**.
+
+</div>
 
 <br>
 
-<!-- =========================================================
-     01 // STACK
-========================================================= -->
+<div align="center">
 
-## 01 // STACK
+<h2>01 // STACK</h2>
+<sub>TOOLS I USE AND TECHNOLOGIES I’M GROWING INTO</sub>
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
+<br><br>
 
-<strong>CORE</strong>
+**CORE**
 
 <br><br>
 
 <img
   src="https://skillicons.dev/icons?i=php,laravel,postgres,git"
   alt="PHP, Laravel, PostgreSQL and Git"
-  height="48"
+  height="52"
 />
 
 <br><br>
 
 <sub>PHP · Laravel · PostgreSQL · Git</sub>
 
-</td>
+<br><br><br>
 
-<td width="50%" align="center" valign="top">
-
-<strong>CURRENTLY EXPLORING</strong>
+**CURRENTLY EXPLORING**
 
 <br><br>
 
 <img
   src="https://skillicons.dev/icons?i=ts,react,nextjs"
   alt="TypeScript, React and Next.js"
-  height="48"
+  height="52"
 />
 
 <br><br>
 
 <sub>TypeScript · React · Next.js</sub>
 
-</td>
-  </tr>
-</table>
+</div>
 
 <br>
 
-<!-- =========================================================
-     02 // CURRENT LAP
-========================================================= -->
+<div align="center">
 
-## 02 // CURRENT LAP
+<h2>02 // CURRENT FOCUS</h2>
+<sub>WHAT I’M BUILDING, LEARNING AND RESEARCHING</sub>
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <strong>BUILDING</strong>
-    </td>
-    <td width="75%">
-      Web applications & internal systems
-    </td>
-  </tr>
+<br><br>
 
-  <tr>
-    <td valign="top">
-      <strong>LEARNING</strong>
-    </td>
-    <td>
-      TypeScript · React · Next.js
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top">
-      <strong>RESEARCH</strong>
-    </td>
-    <td>
-      Machine Learning · pCR prediction
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <sub>
-    Most active development is private. Public projects will appear here when they are portfolio-ready.
-  </sub>
-</p>
+**BUILDING**  
+Web applications and internal systems
 
 <br>
 
-<!-- =========================================================
-     03 // CONNECT
-========================================================= -->
+**LEARNING**  
+TypeScript · React · Next.js
 
-## 03 // CONNECT
+<br>
 
-<p align="center">
+**RESEARCH**  
+Machine Learning · pCR prediction
 
-  <a href="https://www.linkedin.com/in/eliasgutierrez0414/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+</div>
 
-  <a href="mailto:pro.guti.elias@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
+<br>
 
-  <a href="https://www.instagram.com/guti0414/">
-    <img
-      src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
+<div align="center">
 
-</p>
+> Most of my active development happens in private repositories.  
+> Public projects will appear here when they are ready to represent my work.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>03 // CONNECT</h2>
+<sub>LET’S CONNECT</sub>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/eliasgutierrez0414/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:pro.guti.elias@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://www.instagram.com/guti0414/">
+  <img
+    src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+
+</div>
 
 <br>
 
