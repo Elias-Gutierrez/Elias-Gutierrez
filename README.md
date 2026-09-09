@@ -356,3 +356,59 @@
 </p>
 
 <br>
+
+<br>
+
+<!-- =========================================================
+     08 // CONNECT
+========================================================= -->
+
+<h2>08 // CONNECT</h2>
+
+<p>
+  <sub>OPEN TO CONNECTIONS, IDEAS AND NEW CHALLENGES.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Elias-Gutierrez">
+    <img
+      src="https://img.shields.io/badge/GitHub-Elias--Gutierrez-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/eliasgutierrez0414/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Elias%20Gutiérrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:pro.guti.elias@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/guti0414/">
+    <img
+      src="https://img.shields.io/badge/Instagram-@guti0414-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>EG14 // SOFTWARE DEVELOPER</strong>
+</p>
+
+<p align="center">
+  <sub>
+    DRIVEN BY CURIOSITY · BUILT WITH LOGIC
+  </sub>
+</p>
+
+<br>
