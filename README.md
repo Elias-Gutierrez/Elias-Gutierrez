@@ -134,3 +134,73 @@
 </p>
 
 <br>
+
+<br>
+
+<!-- =========================================================
+     04 // EXPERIENCE
+========================================================= -->
+
+<h2>04 // EXPERIENCE</h2>
+
+<p>
+  <sub>BUILDING SOFTWARE FOR REAL-WORLD OPERATIONS.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="22%" valign="top">
+      <strong>2025</strong><br>
+      <sub>ATLANTA INVERSIONES GROUP S.A.</sub>
+    </td>
+    <td width="78%" valign="top">
+      <h3>Software Developer</h3>
+      <sub>May 2025 — Dec 2025</sub>
+      <p>
+        Developed and maintained full-stack modules for internal financial
+        operations, including bank accounts, cards, betting platforms and
+        transaction management.
+      </p>
+      <p>
+        Implemented business logic for automatic accounting entries generated
+        from operations such as deposits and money movements, reducing manual
+        accounting work.
+      </p>
+      <p>
+        <code>Laravel</code>
+        <code>PHP</code>
+        <code>PostgreSQL</code>
+        <code>Eloquent ORM</code>
+        <code>Blade</code>
+        <code>Bootstrap</code>
+      </p>
+      <hr>
+      <h3>Software Development Intern</h3>
+      <sub>Jan 2025 — Apr 2025</sub>
+      <p>
+        Built full-stack modules for catalogs, people, associates, companies
+        and suppliers, working across database modeling, migrations,
+        controllers, business logic and user interfaces.
+      </p>
+      <p>
+        Contributed to migrating processes previously managed in spreadsheets
+        into structured modules within a centralized web application.
+      </p>
+      <p>
+        <code>Laravel</code>
+        <code>PostgreSQL</code>
+        <code>Blade</code>
+        <code>Bootstrap</code>
+        <code>MVC</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>
+    EXPERIENCE LAP // FROM REQUIREMENTS TO WORKING SOFTWARE
+  </sub>
+</p>
+
+<br>
